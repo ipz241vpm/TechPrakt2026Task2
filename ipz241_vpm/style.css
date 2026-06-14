@@ -13,11 +13,11 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
     color: white;
     padding: 40px 0;
     text-align: center;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 5px 10px rgba(0,0,0,0.15); /* Трохи посилили тінь */
 }
 
 header h1 {
